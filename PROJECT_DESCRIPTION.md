@@ -3,7 +3,7 @@
 This workspace contains **3 Solana projects**: 2 backend-only programs and 1 full-stack dApp with a deployed frontend.
 
 
-## 2. Ticket Registry dApp (Full-Stack)
+## 1. Ticket Registry dApp (Full-Stack)
 
 **Location:** `/ticket-registry`
 
